@@ -1,0 +1,21 @@
+#movie-detail{
+    text-align: center;
+    font-size: 20px;
+    margin-top:5vh;
+    background-color: black;
+    color: aliceblue;
+    height: 600px;
+    
+}
+h3 {
+    margin-top:5vh;
+
+}
+img{
+    margin-top:2vh;
+
+}
+.descr-short{
+    margin-top:4vh;
+    padding: 20px;
+}

@@ -1,0 +1,57 @@
+.mini {
+  position: relative;
+  cursor: pointer;
+  margin: 2vh;
+  display: inline-block;
+}
+
+imgg:hover + span {
+  color: rgb(21, 21, 21);
+  font-size: 18px;
+  display: inline-block;
+  position: relative;
+  right: 50%;
+  top: 125px;
+  box-shadow: 1px 1px 19px #ffffff;
+  background-color: #4e4747;
+  border-radius: 29px;
+  padding: 5px;
+}
+
+.directory-img {
+  height: 50vh;
+  width: 50vh;
+  vertical-align: middle;
+  border-radius: 20px;
+}
+span {
+  font-size: 0px;
+  display: none;
+  position: relative;
+  right: 50%;
+  top: 125px;
+}
+
+#is-rented {
+  position: absolute;
+  top: 27px;
+  right: 14px;
+  color: white;
+}
+img{
+    height: 300px;
+    width: 250px;
+    vertical-align: middle;
+    border-radius: 30px;
+
+}
+
+input{
+  border: none;
+  display: inline-block;
+  width: 57vw;
+  padding: 1vh;
+  border-radius: 5px;
+  color: #2c3e50;
+  margin: 9px;
+}

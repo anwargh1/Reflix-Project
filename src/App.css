@@ -1,0 +1,39 @@
+#main-links > a {
+  margin: 10px 0px 10px 10px;
+  color: #a80a0a;
+  text-shadow: -1px -1px 0 #e9ebec, 1px -1px 0 #f6fafc, -1px 1px 0 #ecf0f1,
+    1px 1px 0 #ecf0f1;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+* {
+  text-decoration: none;
+  font-family: cursive;
+}
+#main-links {
+    background-color: rgb(0 0 0);
+    padding: 10px;
+    box-shadow: 1px 2px 12px black;
+    border-radius: 9px
+}
+
+#Reflix {
+    margin: 10px;
+    position: absolute;
+    top: 4px;
+    left: 90%;
+    display: inline;
+    color: #9c0000;
+    text-shadow: -1px -1px 0 #e9ebec, 1px -1px 0 #f6fafc, -1px 1px 0 #ecf0f1, 1px 1px 0 #ecf0f1;
+    font-weight: bold;
+    font-size: 20px;
+}
+a {
+  cursor: pointer;
+  color: rgb(5, 2, 2);
+}
+
+#App {
+  background-color: aliceblu;
+}
