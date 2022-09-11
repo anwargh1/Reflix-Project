@@ -74,8 +74,8 @@ class App extends Component {
       <Router>
         <div className="App">
           <div id="main-links">
-            <Link to="/">Home</Link>
-            <Link to="/catalog"> Catalog</Link>
+            <Link to="/">Home </Link>
+            <Link to="/catalog">  Catalog</Link>
             <div id="Reflix">REFLIX</div>
           </div>
           <Route exact path="/" component={Landing} />

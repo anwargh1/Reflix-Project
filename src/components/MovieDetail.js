@@ -7,7 +7,6 @@ class MovieDetail extends Component {
     const match = this.props.match.match.params.id;
     let movies = this.props.movies.find((m) => m.id == match);
     console.log(movies);
-
     return (
         <Link to="/catalog">
       <div id="movie-detail">
